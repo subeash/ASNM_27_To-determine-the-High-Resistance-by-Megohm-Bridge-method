@@ -1,16 +1,16 @@
 ## Introduction
 
-Figure 1 shows a very high resistance R with its two main terminals A and B and a guard terminal, which is put on the insulation. This high resistance may be diagramatically represented as in Fig. 2.
+Figure. 1 shows a very high resistance R with its two main terminals A and B and a guard terminal, which is put on the insulation. This high resistance may be diagramatically represented as in Fig. 2.
 <p align="center">
 
-![Rm501 Figure](images/pic1.jpg)
+![Rm501 Figure](images/high_resistance_fig1.jpg)
 
 ***[Fig 1]***
 </p>
 
 <p align="center">
 
-![Rm501 Figure](images/pic1.jpg)
+![Rm501 Figure](images/high_resistance_fig2.jpg)
 
 ***[Fig 2]***
 </p>
@@ -19,7 +19,7 @@ The resistance R is between main terminals A and B and the leakage resistances R
 
 <p align="center">
 
-![Rm501 Figure](images/pic1.jpg)
+![Rm501 Figure](images/high_resistance_fig3.jpg)
 
 ***[Fig 3]***
 </p>
@@ -28,7 +28,7 @@ However, if the same resistance is measured by a modified wheatstone bridge as s
 
 <p align="center">
 
-![Rm501 Figure](images/pic1.jpg)
+![Rm501 Figure](images/fig4.jpg)
 
 ***[Fig 4]***
 </p>
