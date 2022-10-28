@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Q meter Experiment**
+<b> Experiment|     <b> **Measurement Of High Resistance by Megohm Bridge method**
 
 
 <b>Name of Developer | <b> **Prof. A.K Deb**
